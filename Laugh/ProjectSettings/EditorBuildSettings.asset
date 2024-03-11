@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Factory_Intro.unity
+    guid: 87c2aa36dc98369498c66ae54e5b2b0e
+  - enabled: 1
+    path: Assets/Scenes/Bedroom.unity
+    guid: 34e2d1bd12e3fa040965db4c4759c1fc
+  - enabled: 1
+    path: Assets/Scenes/Street.unity
+    guid: 0badb2b3ecd07a1429385d9c4ebbc6ca
+  - enabled: 1
+    path: Assets/Scenes/House2.unity
+    guid: 4e0b77521c5b32c489aa2338d468ecbe
+  - enabled: 1
+    path: Assets/Scenes/Factory_Inside.unity
+    guid: 59afde3d832874e4a814aaa65467feb0
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 70c9c2cf8b8c9f540accded75d2b2253, type: 2}
